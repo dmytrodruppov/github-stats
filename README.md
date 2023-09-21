@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dmytrodruppov&theme=dark)](https://git.io/streak-stats)
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=dmytrodruppov)
